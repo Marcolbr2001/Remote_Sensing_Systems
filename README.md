@@ -46,7 +46,7 @@ FTIR/
 Below is a sample plot from the analysis:
 
 <p align="center">
-  <img src="images/sample_spectrum_plot.png" alt="FTIR spectral analysis example" width="600">
+  <img src="FTIR/images/sample_spectrum_plot.png" alt="FTIR spectral analysis example" width="600">
 </p>
 
 ---
