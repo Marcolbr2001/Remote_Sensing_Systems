@@ -62,13 +62,7 @@ Below is a sample plot from the analysis:
 
 ### 🎥 Demo Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="Watch the CFAR detection demo" width="600">
-  </a>
-</p>
-
-> Replace `YOUR_VIDEO_ID` with your actual YouTube video ID if you upload it
+🎬 [Watch the CFAR Detection Video (MP4)](FMCW_and_SAR/CFAR_Detection_Video_1000.mp4)
 
 ---
 
