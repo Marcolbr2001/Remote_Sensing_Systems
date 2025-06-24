@@ -51,14 +51,3 @@ Below is a sample plot from the analysis:
 
 ---
 
-## 🛠 Dependencies
-
-- Python 3.x
-- NumPy, SciPy, Matplotlib
-- Jupyter Notebook
-
----
-
-## 📄 License
-
-This project is part of an academic laboratory exercise and is shared for educational purposes only.
