@@ -62,15 +62,11 @@ Below is a sample plot from the analysis:
 
 ### 🎥 Demo Video
 
-🎬 [Watch the CFAR Detection Video (MP4)](FMCW_and_SAR/CFAR_Detection_Video_1000.mp4)
-
-
 <p align="center">
   <a href="https://youtu.be/8DBd7lSfEBI">
     <img src="https://img.youtube.com/vi/8DBd7lSfEBI/hqdefault.jpg" alt="Watch the CFAR detection demo" width="600">
   </a>
 </p>
-
 
 ---
 
